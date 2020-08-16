@@ -1,6 +1,7 @@
 
 
-# Proffy
+# Proffy - Sua Plataforma de Estudos Online
+ 
 
 <div align="center">
 <!-- <img src="https://github.com//Proffy/blob/master/nlw2.svg" width="250px" height="auto"> -->
