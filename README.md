@@ -3,13 +3,6 @@
 # Proffy
 > Plataforma de Estudos Online
 
-[![NPM Version][npm-image]][npm-url]
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-
 <div align="center">
 <!-- <img src="https://github.com//Proffy/blob/master/nlw2.svg" width="250px" height="auto"> -->
 <img src="prints/logo.png" width="250px" height="auto">
