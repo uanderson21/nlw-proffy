@@ -19,7 +19,7 @@
 
 ## Projeto
 ###### O projeto consiste na criação de uma plataforma para permitir que alunos e professores interajam de forma que: 
-* ###### Alunos possam encontrar professores online para dar aulas;
+* ###### Alunos possam encontrar professores online para receber aulas;
 * ###### Professores possam cadastrar seus serviços (Máteria e Período) na plataforma;
 
 ###### **Evento :** Next Level Week 2ª Edição - [Rocketseat](https://rocketseat.com.br)
