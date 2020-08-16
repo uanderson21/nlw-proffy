@@ -41,6 +41,14 @@ Para iniciar o Servidor da aplicação use o comando: **_npm run dev_** então a
 
 ---
 
+## Histórico de Lançamentos (Release)
+
+* 0.0.1
+    * ADD: Códigos e Documentos
+
+---
+   
+
 ## 💻 **Prints**
 
 <div align="center">
