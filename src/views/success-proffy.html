@@ -1,0 +1,69 @@
+<!-- 
+    DESAFIOS
+
+    01 - Pagina de Sucesso
+        * Mostrar página de sucesso após o cadastro do proffy
+        * Aguardar 2 segundos na página e redirecionar para a listagem dos proffys com filtro
+        use setTimeout para aguardar os 2 segundos
+
+    02 - Localizar bug no sistemas
+        * Não permitir o usuário colocar um novo campo de dia e horario, se o dia e hora anterior 
+        estiver vazio.
+        * Funcionalidade de deletar um campo de dia e hora.
+        
+ -->
+
+ <!DOCTYPE html>
+<html lang="pt_br"> <!-- lang é um atributo -->
+<head>
+    <meta charset="UTF-8"> <!-- -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#8257E5"> 
+
+    <title>Proffy | Sua plataforma de estudos online</title>
+    <link rel="shortcut icon" href="/images/favicon.png" type="image/png"> 
+    <link rel="stylesheet" href="/styles/main.css"> 
+    <link rel="stylesheet" href="/styles/partials/header.css"> 
+    <link rel="stylesheet" href="/styles/partials/forms.css">   
+    <link rel="stylesheet" href="/styles/partials/page-success-proffy.css"> 
+
+    <link rel="shortcut icon" href="/images/favicon.png" type="image/png"> 
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&amp;family=Poppins:wght@400;600&amp;display=swap" rel="stylesheet">
+</head>
+<body id="page-success-proffy">
+
+
+    <div id="container">
+
+        <div class="background-image">
+            <!--<img src="/images/success-background.svg" alt="Cadastro Salvo!">-->
+            <p>Imagem de fundo</p>
+        </div>
+
+        <div class="check-success">
+            <img src="/images/icons/success-check-icon.svg" alt="Success">
+        </div>
+
+        <div class="success-text">
+            <h2>Cadastro salvo!</h2>
+            <p>Tudo certo, seu cadastro está na nossa lista de professores.
+                Agora é só ficar de olho no seu WhatsApp.</p>
+        </div>
+
+        <div class="buttons-container">
+            <a class="give-classes" href="/give-classes">
+                Acessar lista
+            </a>
+        </div>
+       
+    </div>
+    
+<script>
+   // setTimeout(function() {
+   //     const query = location.search.slice(1);
+   //     alert(query);
+   //     //window.location.href = "/study?"+query;
+   // },3000);
+</script>
+</body>
+</html>
